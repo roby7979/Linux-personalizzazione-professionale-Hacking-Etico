@@ -29,11 +29,11 @@ apt install cmake cmake-data pkg-config python3-sphinx libcairo2-dev libxcb1-dev
 
 git clone --recursive https://github.com/polybar/polybar 
 
-1.mkdir build
-2.cd build
-3.cmake ..
-4.make -j$(nproc)
-5.sudo make install
+# 1.mkdir build
+# 2.cd build
+# 3.cmake ..
+# 4.make -j$(nproc)
+# 5.sudo make install
 
 
 
@@ -42,10 +42,10 @@ apt install meson libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev 
 
 git clone https://github.com/ibhagwan/picom.git
 
-1.git submodule update –-init -–recursive 
-2.meson –-buildtype=release . build 
-3.ninja -C build
-4.sudo ninja -C build install
+# 1.git submodule update –-init -–recursive 
+# 2.meson –-buildtype=release . build 
+# 3.ninja -C build
+# 4.sudo ninja -C build install
 
 apt install rofi
 
