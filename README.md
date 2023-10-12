@@ -5,7 +5,7 @@
 
 
 # 1.SCRIPT RESIZE:
-'#!/usr/bin/env dash
+#!/usr/bin/env dash
 
 if bspc query -N -n focused.floating > /dev/null; then
 	step=20
@@ -20,7 +20,7 @@ case "$1" in
 	south) dir=top; falldir=bottom; x=0; y="$step";;
 esac
 
-bspc node -z "$dir" "$x" "$y" || bspc node -z "$falldir" "$x" "$y"'
+bspc node -z "$dir" "$x" "$y" || bspc node -z "$falldir" "$x" "$y"
 
 
 
