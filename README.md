@@ -1,7 +1,7 @@
 # Linux-personalizzazione-professionale-Hacking-Etico
-# Video #1 - Installazione Distro e VM https://youtu.be/zYgN2Ty16RA?si=APubWMo8LlyM6LXo
-# Video #2 - Donwload Repository e configurazione
-# Video 3# - 
+## Video #1 - Installazione Distro e VM https://youtu.be/zYgN2Ty16RA?si=APubWMo8LlyM6LXo
+## Video #2 - Donwload Repository e configurazione
+## Video 3# - 
 
 
 # 1.SCRIPT RESIZE:
