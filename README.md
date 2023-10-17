@@ -1,7 +1,7 @@
 # Linux-personalizzazione-professionale-Hacking-Etico
 ## Video #1 - Installazione Distro e VM https://youtu.be/zYgN2Ty16RA?si=APubWMo8LlyM6LXo
 ## Video #2 - Download Repository e configurazione https://youtu.be/IjkOhg1RBow?si=zsooCDTLL98EC0wC
-## Video 3# - 
+## Video 3# - Configurando la kitty e Feh https://youtu.be/5LUnpIeTxLA?si=ss4NK6lfGaHr833m
 
 
 # 1.SCRIPT RESIZE:
