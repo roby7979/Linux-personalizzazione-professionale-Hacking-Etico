@@ -3,6 +3,8 @@
 ## Video #2 - Download Repository e configurazione https://youtu.be/IjkOhg1RBow?si=zsooCDTLL98EC0wC
 ## Video 3# - Configurando la kitty e Feh https://youtu.be/5LUnpIeTxLA?si=ss4NK6lfGaHr833m
 ## Video 4# - La Polybar https://youtu.be/H4PjrwGDDQg?si=liucgmOdsCcOfo96
+## Video 5# - Powerlevel10k https://youtu.be/kKWzyok9gDM?si=eykZupXpFgSJRrhP
+## Video #6 - Batcat e Lsd https://youtu.be/hqTVwAXyK8M
 
 
 # 1.SCRIPT RESIZE:
