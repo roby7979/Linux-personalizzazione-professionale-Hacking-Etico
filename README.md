@@ -5,6 +5,7 @@
 ## Video 4# - La Polybar https://youtu.be/H4PjrwGDDQg?si=liucgmOdsCcOfo96
 ## Video 5# - Powerlevel10k https://youtu.be/kKWzyok9gDM?si=eykZupXpFgSJRrhP
 ## Video #6 - Batcat e Lsd https://youtu.be/hqTVwAXyK8M
+## Video #7 - Configurazione Polybar https://youtu.be/kO68cV8F-eU?si=Nvp46bUOfsVd2U4o
 
 
 # 1.SCRIPT RESIZE:
